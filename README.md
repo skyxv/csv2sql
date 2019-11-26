@@ -3,7 +3,7 @@ csv2sql
 [![Support Python Version](https://img.shields.io/badge/Python-3-brightgreen.svg?style=for-the-badge)](https://www.python.org/)
 
 
-## [Introduction]()
+## [Introduction](https://github.com/yandenghong/csv2sql)
 
 ```text
 usage: csv2sql.py [-h] -t TABLE [-d {mysql,oracle}] [-s SEPARATOR] [-e]
@@ -31,7 +31,7 @@ optional arguments:
 
 ```
 
-## [Usage]()
+## [Usage](https://github.com/yandenghong/csv2sql)
 
 if your csv file like this:
 ```text
