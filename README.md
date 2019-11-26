@@ -3,9 +3,6 @@ csv2sql
 [![Support Python Version](https://img.shields.io/badge/Python-3-brightgreen.svg?style=for-the-badge)](https://www.python.org/)
 
 
-csv file to sql.
----
-
 ## [Introduction]()
 
 ```text
