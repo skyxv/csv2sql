@@ -5,7 +5,8 @@ csv2sql
 
 csv file to sql.
 
-## <font color="#0000dd">Introduction</font>
+## [Introduction]()
+
 ```text
 usage: csv2sql.py [-h] -t TABLE [-d {mysql,oracle}] [-s SEPARATOR] [-e]
                   [-m ORDER_MAPPING]
@@ -32,7 +33,8 @@ optional arguments:
 
 ```
 
-## <font color="#0000dd">Usage</font>
+## [Usage]()
+
 if your csv file like this:
 ```text
 name,age,gender
